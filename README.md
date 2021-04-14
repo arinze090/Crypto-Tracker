@@ -1,3 +1,7 @@
+This a crypto tracker app that helps you search & track various crypto-coins with the aid of crypto api (just about top 20 coins added for now but could be expanded).
+Was made with React & Nextjs to achieve this goal.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
